@@ -25,7 +25,7 @@ These scrapers rely on the current HTML structure of the target websites.
 - Install Dependencies **pip install requests beautifulsoup4 lxml**
 - Run the **main.py** file and after the execution **Internshala_data.csv** file will be created with the data inside
 
-  **Try 2:**
+**Try 2:**
 
 - Install Dependencies **pip install selenium beautifulsoup4 lxml**
 - Run **locate_multiple.py** file the html files with data starts getting stored in the data folder.
@@ -34,5 +34,8 @@ These scrapers rely on the current HTML structure of the target websites.
 ## Demo
 
 
-https://github.com/user-attachments/assets/fd0c2c1f-b740-4f25-9d00-5b93efd04c00
+
+https://github.com/user-attachments/assets/d224f2c2-47be-403a-b1a2-fa220fc4ffb9
+
+
 
